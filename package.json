@@ -1,0 +1,9 @@
+{
+  "name": "template-index-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "glob": "^10.3.10",
+    "fs-extra": "^11.2.0"
+  }
+}
